@@ -1,6 +1,6 @@
 import turtle
 
-#questions
+#questions 
 available_colours = ["green", "red", "blue", "white"]
 number_of_players = input ("Choose the number of players: ")
 if number_of_players == "4":
@@ -29,7 +29,7 @@ elif number_of_players == "2":
 else: 
     print("Choose at least 2 players: ")
 
-#score
+#scores
 lives_a = 3
 lives_b = 3
 lives_c = 3
